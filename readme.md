@@ -83,5 +83,5 @@ Autores:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto-blue?logo=linkedin)](https://www.linkedin.com/in/gilberto-amorim-a5875656/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro-blue?logo=linkedin)](linkedin.com/in/leandro-assarice/)
-
+ 
  

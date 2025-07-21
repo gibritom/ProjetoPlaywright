@@ -1,11 +1,11 @@
 {
   "name": "auto-cronapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto para automatizar recusos e funcionalidades do Cronapp para testes pela equipe de QA",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Gilberto de Brito Amorim e Leandro Assarice",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.54.1",
