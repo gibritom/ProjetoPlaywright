@@ -1,0 +1,16 @@
+{
+  "config_data": {
+    "config": {
+      "ProjectType": "data",
+      "idAplication": "",
+      "typeAuth": ""
+    }
+  },
+  "config_business": {
+    "config": {
+      "ProjectType": "business",
+      "idAplication": "",
+      "typeAuth": ""
+    }
+  }
+}

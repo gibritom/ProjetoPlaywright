@@ -1,0 +1,46 @@
+{
+  "config_default": {
+    "config": {
+      "idAplication": "",
+      "includeFrontEnd": true,
+      "includeBackEnd": true,
+      "includeAuth": false,
+      "typeAuth": "",
+      "loginSocial": false,
+      "mutualAuth": false
+    }
+  },
+  "config_example": {
+    "config": {
+      "idAplication": "com.cron-teste",
+      "includeFrontEnd": true,
+      "includeBackEnd": true,
+      "includeAuth": false,
+      "typeAuth": "SSO",
+      "loginSocial": false,
+      "mutualAuth": false
+    }
+  },
+  "config_front": {
+    "config": {
+      "idAplication": "",
+      "includeFrontEnd": true,
+      "includeBackEnd": false,
+      "includeAuth": false,
+      "typeAuth": "",
+      "loginSocial": false,
+      "mutualAuth": false
+    }
+  },
+  "config_back": {
+    "config": {
+      "idAplication": "",
+      "includeFrontEnd": false,
+      "includeBackEnd": true,
+      "includeAuth": true,
+      "typeAuth": "",
+      "loginSocial": false,
+      "mutualAuth": false
+    }
+  }
+}
